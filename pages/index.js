@@ -30,6 +30,7 @@ export default function Home() {
   return (
    <>
    <Layout>
+    <div className='container m-auto px-3'>
  <Hero/>
 
 <OpinionC />
@@ -45,7 +46,7 @@ export default function Home() {
 <Business />
 <Astrology />
 <LatestN />
-
+</div>
    </Layout>
 
    </>

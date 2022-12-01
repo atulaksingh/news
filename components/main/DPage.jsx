@@ -5,7 +5,7 @@ import DetailsP from "../cards/DetailsP";
 function DPage() {
   return (
     <>
-      <div className="container m-auto px-5 mt-10">
+      <div className="container m-auto  mt-10">
         <div className="grid grid-cols-11 gap-5 ">
           <div className="lg:col-span-8 md:col-span-11 sm:col-span-11 col-span-11">
             <DetailsP />

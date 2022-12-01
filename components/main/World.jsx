@@ -56,7 +56,7 @@ const rightData = [
 function World() {
   return (
     <>
-      <div className="container mx-auto mt-20 px-5">
+      <div className="container mx-auto mt-20 ">
         <Oneline data={{ name: "विश्व " }} />
         <div className="grid grid-cols-12 gap-5 mt-10">
           <div className="col-span-12 md:col-span-4 ">

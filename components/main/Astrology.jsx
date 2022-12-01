@@ -59,7 +59,7 @@ const rightData = [
 function Astrology() {
   return (
     <>
-     <div className='container mx-auto mt-20 px-5'>
+     <div className='container mx-auto mt-20 '>
       <div className='my-10'>
         <Mline data = {{name:"ज्योतिष"}} />
       </div>

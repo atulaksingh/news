@@ -9,7 +9,7 @@ import Link from "next/link";
 function State() {
   return (
     <>
-      <div className="container m-auto mt-10 px-5">
+      <div className="container m-auto mt-10">
         <div className="">
           <Oneline data={{ name: 'राज्य'}} />
         </div>

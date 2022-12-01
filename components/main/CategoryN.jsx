@@ -5,7 +5,7 @@ import Link from "next/link";
 function CategoryN() {
   return (
     <>
-      <div className="container m-auto my-20 px-5">
+      <div className="container m-auto my-20 ">
         <div className=" flex gap-3 flex-wrap justify-center">
         <div className="w-[300px] h-full border px-3">
             <div className="">

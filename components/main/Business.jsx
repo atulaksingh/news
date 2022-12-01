@@ -31,7 +31,7 @@ const rightData = [
 
 function Business() {
   return (
-    <div className="container m-auto mt-20 px-5">
+    <div className="container m-auto mt-20 ">
       <Mline  data={{ name: 'बिज़नेस '}} />
       <div className="grid grid-cols-12 gap-5 mt-8">
         <div className="lg:block hidden col-span-4 ">

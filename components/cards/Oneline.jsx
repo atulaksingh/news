@@ -5,7 +5,7 @@ function Oneline({data}) {
   return (
     <div>
       <div className="border-t-2 border-gray-500 "></div>
-        <div className="flex -m-4  justify-between">
+        <div className="flex -mt-4  justify-between">
           <div className=" ml-10 bg-white font-bold text-2xl w-24 text-center">{data.name}</div>
 
           <div className="rounded-full border-2 border-gray-300 mr-10  bg-gray-100 w-24 text-center flex justify-around gap-1">

@@ -58,7 +58,7 @@ const leftData = [
 
 function Plays() {
   return (
-    <div className="container m-auto mt-20 px-5">
+    <div className="container m-auto mt-20 ">
       <div className="my-10">
         <Mline data={{ name: "खेल" }} />
       </div>

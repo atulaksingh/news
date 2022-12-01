@@ -59,7 +59,7 @@ const rightData = [
 
 function Entertainment() {
   return (
-    <div className='container m-auto mt-20 px-5'>
+    <div className='container m-auto mt-20 '>
       <div className="">
         <Mline data = {{name:"मनोरंजन"}} />
       </div>
