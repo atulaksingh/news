@@ -1,7 +1,6 @@
-import { useRouter } from "next/router";
 import React from "react";
-
 import Layout from "../../components/layout/Layout";
+import { useRouter } from "next/router";
 import DPage from "../../components/main/DPage";
 
 function Slug() {
