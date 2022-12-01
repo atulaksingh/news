@@ -13,7 +13,7 @@ const Layout = ({
         <title>{title}</title>
       </Head>
      
-        <nav className="fixed top-0 right-0 left-0 z-30">
+        <nav className="fixed top-0 left-0 right-0 z-30">
           <Header />
         </nav>
     

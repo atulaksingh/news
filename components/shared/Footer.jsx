@@ -54,7 +54,7 @@ function Footer() {
               </div>
             </div>
             <div className="text-sm text-left p-2 text-gray-300">
-              Copyright © 2022 Jagran Prakashan Limited.
+              Copyright © 2022 9News Limited.
             </div>
           </div>
 

@@ -109,13 +109,13 @@ function Hero() {
                 <Leftcard key={index} title={data.title} />
               ))}
             </div>
-            <div className="md:col-span-4 sm:col-span-6 col-span-10 border-l-2 border-gray-300 ">
+            <div className="md:col-span-4 sm:col-span-6 col-span-10 sm:border-l-2 sm:border-gray-300 ">
             
                 <Middlecard data = {middleData} />
           
              
             </div>
-            <div className="md:col-span-3 sm:col-span-4 col-span-10  border-l-2 border-gray-300 px-3">
+            <div className="md:col-span-3 sm:col-span-4 col-span-10  sm:border-l-2 sm:border-gray-300 px-3">
               <div className="mb-3">
                 <div className="border-t-2 border-gray-300  "></div>
                 <div className="bg-white w-24 text-center -m-3 mx-auto font-bold text-lg">

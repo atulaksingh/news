@@ -65,7 +65,7 @@ function Entertainment() {
       </div>
       <div className="grid grid-cols-9 gap-4 my-10">
         <div className="col-span-9 lg:col-span-6"> <EtmCard data ={leftData} />   </div>
-        <div className="col-span-9 lg:col-span-3 border-l-2 border-gray-300"> <PlyCard2 data = {rightData} />   </div>
+        <div className="col-span-9 lg:col-span-3 sm:border-l-2 sm:border-gray-300"> <PlyCard2 data = {rightData} />   </div>
       </div>
     </div>
   )

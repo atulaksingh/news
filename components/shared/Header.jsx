@@ -17,7 +17,7 @@ const closeToggle = () =>{
 
      </div>
 
-      <div className="container m-auto">
+      <div>
         <div className="bg-blue-800 ">
           <div className="grid grid-cols-12  ">
             <div className="col-span-2 md:col-span-1">
