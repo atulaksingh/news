@@ -14,7 +14,7 @@ function DCard2(props) {
       <div className="">
         <div className="border-t-2 border-gray-300  "></div>
         <div className="bg-white w-28 text-center -m-3 mx-auto font-bold text-lg">
-          सबसे लोकप्रिय.
+          सबसे लोकप्रिय
         </div>
         {rightdata.map((item,index) => (
         <div key={index} className=" flex gap-5 lg:gap-2 my-5">
